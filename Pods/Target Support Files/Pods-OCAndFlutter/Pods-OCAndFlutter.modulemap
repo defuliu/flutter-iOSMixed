@@ -1,0 +1,6 @@
+framework module Pods_OCAndFlutter {
+  umbrella header "Pods-OCAndFlutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
